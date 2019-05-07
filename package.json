@@ -1,6 +1,6 @@
 {
   "name": "@lagerweijtech/strip-html-tags",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Strips HTML tags from string",
   "main": "./lib/index.js",
   "directories": {
