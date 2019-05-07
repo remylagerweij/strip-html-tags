@@ -15,7 +15,7 @@ Strips HTML tags from strings
 
 1. Import stripHtmlTags in your .js file
 `@import stripHtmlTags`
-2. running stripHtmlTags('<div class="hello">strip me</div>') will return 'strip me'
+2. running `stripHtmlTags('<div class="hello">strip me</div>')` will return `'strip me'`
 
 # Commands
 - `npm run clean` - Remove `lib/` directory
