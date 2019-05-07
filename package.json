@@ -1,9 +1,12 @@
 {
-  "organisation": "lagerweijtech",
-  "name": "strip-html-tags",
+  "name": "@lagerweijtech/strip-html-tags",
   "version": "1.0.4",
   "description": "Strips HTML tags from string",
   "main": "./lib/index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
   "scripts": {
     "clean": "rimraf lib",
     "test": "npm run lint && npm run cover",
@@ -20,10 +23,6 @@
     "lib",
     "src"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/remylagerweij/strip-html-tags.git"
-  },
   "keywords": [
     "strip",
     "html",
@@ -35,7 +34,11 @@
     "remylagerweij",
     "javascript"
   ],
-  "author": "Lagerweij Technologies <remy@lagerweij.tech>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remylagerweij/strip-html-tags.git"
+  },
+  "author": "LagerweijTech <remy@lagerweij.tech>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/remylagerweij/strip-html-tags/issues"
