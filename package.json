@@ -1,7 +1,7 @@
 {
   "organisation": "lagerweijtech",
   "name": "strip-html-tags",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Strips HTML tags from string",
   "main": "./lib/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexdinesh/npm-module-boilerplate.git"
+    "url": "git+https://github.com/remylagerweij/strip-html-tags.git"
   },
   "keywords": [
     "strip",
