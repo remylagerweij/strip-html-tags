@@ -5,11 +5,9 @@
 Strips HTML tags from strings
 
 # Installation
-## yarn
+## Yarn or NPM
 `yarn add @lagerweijtech/strip-html-tags`
-
-## npm
-`npm add @lagerweijtech/strip-html-tags`
+`npm add @lagerweijtech/strip-html-tags
 
 # Usage
 
