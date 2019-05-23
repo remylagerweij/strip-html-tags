@@ -3,7 +3,7 @@ const stripHtmlTags = (str) => {
     return '';
   }
 
-  return str.toString().replace(/<[^>]*>/g, '');
+  return str.replace(/<[^>]*>/g, '');
 };
 
 export default stripHtmlTags;
