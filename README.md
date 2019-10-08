@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/remylagerweij/strip-html-tags.svg?branch=master)](https://travis-ci.org/remylagerweij/strip-html-tags) [![dependencies Status](https://david-dm.org/remylagerweij/strip-html-tags/status.svg)](https://david-dm.org/remylagerweij/strip-html-tags) [![devDependencies Status](https://david-dm.org/remylagerweij/strip-html-tags/dev-status.svg)](https://david-dm.org/remylagerweij/strip-html-tags?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Strips HTML tags from strings
+Strip HTML tag from string
 
 # Installation
 ## Yarn or NPM
